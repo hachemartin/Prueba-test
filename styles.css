@@ -1,6 +1,5 @@
 nav ul {
   margin: 0;
-  padding: 6px;
   list-style: none; }
 
 nav li {
@@ -8,5 +7,4 @@ nav li {
 
 nav a {
   display: block;
-  padding: 6px 12px;
   text-decoration: none; }

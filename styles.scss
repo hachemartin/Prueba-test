@@ -1,7 +1,6 @@
 nav {
   ul {
     margin: 0;
-    padding: $padding;
     list-style: none;
   }
 
@@ -9,7 +8,6 @@ nav {
 
   a {
     display: block;
-    padding: $padding 12px;
     text-decoration: none;
   }
 }
